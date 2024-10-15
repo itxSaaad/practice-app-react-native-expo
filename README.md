@@ -1,1 +1,0 @@
-# practice-app-react-native-expo
